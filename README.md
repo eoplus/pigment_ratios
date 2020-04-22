@@ -1,4 +1,4 @@
-# pigment_ratios
+# Pigment ratios
 
 This repository documents available information on pigment ratios and pigment based groups within taxonomic groups, mainly to aid analysis of chemichal taxonomy like CHEMTAX or BCE.
 
