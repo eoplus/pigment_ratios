@@ -1,7 +1,6 @@
 Pigment, Molar_weight
 Chl_a,893.49
 DVChl_a,891.47
-TChl_a,892.48
 Chl_b,907.47
 DVChl_b,905.46
 TChl_b,906.47
@@ -13,7 +12,6 @@ Chl_c3,652.94
 MVChl_c3,654.95
 TChl_c3,653.95
 MgDVP,610.94
-TChl_c,627.74
 Chl_d,895.46
 b_e_Car,536.87
 b_b_Car,536.87
@@ -24,6 +22,7 @@ b_p_Car,536.87
 Lyco,536.87
 Allo,564.84
 Anth,584.87
+Aph,600.9
 Asta,596.84
 Calo,584.87
 Cantha,564.84
@@ -36,7 +35,6 @@ Dhlut,570.89
 Dino,642.91
 Echin,550.86
 Fuco,658.91
-c_Fuco,658.9
 But_Fuco,745
 Hex_Fuco,773.05
 Hex_kFuco,787.03
@@ -46,6 +44,7 @@ Myxo,731.01
 c_Neo,600.87
 t_Neo,600.87
 Nosto,600.87
+Oscil,893.15
 Perid,630.81
 Perid_ol,588.75
 Pras,600.87
@@ -55,5 +54,4 @@ Uri,614.85
 Vauch,616.87
 Vauch_eo,785.1
 Viola,600.87
-Pyrrho,612.8
 Zea,568.87
